@@ -129,7 +129,7 @@ public class Calculator {
 	public static Item itemLocatorModule;
 	public static Item itemStorageModule;
 	public static Item itemWarpModule, itemJumpModule;
-	// public static Item itemSmeltingModule;
+	 public static Item itemSmeltingModule;
 	public static Item circuitBoard, circuitDamaged, circuitDirty;
 	public static Item wrench;
 
@@ -141,7 +141,7 @@ public class Calculator {
 	public static Block extractionChamber, restorationChamber, reassemblyChamber, processingChamber, precisionChamber;
 	public static Block analysingChamber, storageChamber, fabricationChamber;
 
-	// public static Block manipulationChamber;
+	 public static Block manipulationChamber;
 	public static Block hungerProcessor, healthProcessor, amethystPiping, tanzanitePiping;
 	public static Block basicGreenhouse, advancedGreenhouse, flawlessGreenhouse, CO2Generator;
 	public static Block scarecrow, scarecrowBlock;
